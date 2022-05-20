@@ -1,6 +1,6 @@
-# FERMENTO is a Bootstrap project.
+# FERMENTO is a Bootstrap project
 
-[FERMENTO](https://ariannatelesca.github.io/Restaurant/)
+-> [FERMENTO](https://ariannatelesca.github.io/Restaurant/)
 
 ---
 
@@ -16,9 +16,7 @@ There are:
 
 The project is in Bootstrap 5 at 99%. I used css only for the home's background image and for the logo's size.
 
-
-
-**FERMENTO** is a real wine bar that will open soon in Brussels but the only real element of my project is the logo kindly offered by the owners. For more informations visit:  fermento ....
+**FERMENTO** is a real wine bar that will open soon in Brussels but the only real element of my project is the logo kindly offered by the owners. For more informations visit: [Fermento's page instagram](https://www.instagram.com/fermentowinebar/?hl=en).
 
 
 Photos' credits:  
