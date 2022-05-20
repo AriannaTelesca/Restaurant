@@ -1,14 +1,14 @@
-FERMENTO is a Bootstrap projet.
+FERMENTO is a Bootstrap project.
 
 It is a challange of the BeCode promo Swartz/6. I completed it on May 2022.  
-The projet is in Bootstrap 5 at 95%. I used css only for the home's background image and for the logo's size.
+The project is in Bootstrap 5 at 95%. I used css only for the home's background image and for the logo's size.
 
 FERMENTO is a real wine bar that will open soon in Brussels but the only real element of my projet is the logo kindly offered by the owners. For more informations visit:  fermento ....
 
 
 Photos' credits:
 
-[Unsplash]("https://unsplash.com/s/photos/wine-glass?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText").
+[Unsplash](https://unsplash.com/s/photos/wine-glass?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
 In order of appearance by:
 
 1. Biljana Martinić (background image)
