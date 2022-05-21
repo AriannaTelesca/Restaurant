@@ -10,8 +10,7 @@ The project is a web page for a restaurant, I chosed a wine bar with *petite res
 
 The website is responsive for mobile. It has five accessible pages: welcome, menu, pictures, restaurants and contact.  
 
-Welcome
-
+Welcome  
 A page with one Jumbotron and two cards to show news (promo, events).  
 
 Menu  
@@ -37,21 +36,7 @@ Photos' credits:
 
 [Unsplash](https://unsplash.com/s/photos/wine-glass?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).    
 
-In order of appearance by:
 
-1. Biljana Martinić (background image)
-2. MK Digital Products 
-3. Michael Oeser  
-4. Pinar Kucuk
-5. Giacomo Alonzi
-6. Vera Davidova
-7. Kamil Kalbarczyk
-8. Stella de Smit
-9. Stephanie McCabe
-10. Vladimir Gladkov
-11. Nadya Filatova
-12. Nikita Tikhomirov
-13. Camille Brodard
 
 
  
